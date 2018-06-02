@@ -1,4 +1,4 @@
-## Meg Brilleslyper: Vocalist
+## Meg Brilleslyper: Vocalist (Mezzo Soprano)
 
 <!-- Want a banner image? Find the image you want and store it in the images directory with the name `banner.jpg`. (Or you can modify the file name in the next line, with any image URL you want. -->
 
@@ -8,8 +8,7 @@
 ## Hello
 
 - My name is Meg Brilleslyper
-- I am a senior at Discovery Canyon Campus High School
-- I am a mezzo-soprano.
+- I am a senior at Discovery Canyon Campus High School in Colorado Springs
 - I plan to major in vocal performance in college beginning fall 2019.
 
 
@@ -22,8 +21,8 @@
 
 ### Links to some video performances
 
-* [Voi Che Sapate](https://drive.google.com/open?id=1ZzvS-rvYw2467lPsFcj58P6Bk88naWhL) CO-WY NATS final performance:
-* 
+* [Voi Che Sapate](https://drive.google.com/open?id=1ZzvS-rvYw2467lPsFcj58P6Bk88naWhL) CO-WY NATS final performance
+* [I'm just a Girl WHo Can't Say No](https://drive.google.com/open?id=1CxY4c_Ba3t040YS77IbV6liHIHcLqzgW) CO-WY NATS
 * 
 
 
