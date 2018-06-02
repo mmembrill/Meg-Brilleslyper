@@ -10,14 +10,15 @@
 - My name is Meg Brilleslyper
 - I am a senior at Discovery Canyon Campus High School in Colorado Springs
 - I plan to major in vocal performance in college beginning fall 2019.
+- Here is my resume
 
 
 ## Recent Competitions and Performances
 
-- Colorado Wyoming NATS:  1st place classical division
-- Colorado Wyoming NATS: 1st place music theater division
+- Colorado Wyoming NATS:  *1st place classical division*
+- Colorado Wyoming NATS: *1st place music theater division*
 - MTNA National Finals Orlando Fl
-- Soprano solist for Michael Hadyn's Requiem performed by Soli Deo Gloria
+- Soprano soloist for Michael Hadyn's Requiem performed by Soli Deo Gloria (90-voice community chorus)
 
 ### Links to some video performances
 
