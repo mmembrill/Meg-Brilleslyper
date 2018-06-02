@@ -2,7 +2,7 @@
 
 <!-- Want a banner image? Find the image you want and store it in the images directory with the name `banner.jpg`. (Or you can modify the file name in the next line, with any image URL you want. -->
 
-<!-- ![](images/banner.jpg){img:height="300px" width="100%"}
+<!-- ![](images/banner.jpg){img:height="300px" width="100%"} -->
 <!-- If you don't want a banner, delete the previous line.  -->
 
 ## Hello
@@ -24,6 +24,6 @@
 
 * [Voi Che Sapate](https://drive.google.com/open?id=1ZzvS-rvYw2467lPsFcj58P6Bk88naWhL) CO-WY NATS final performance
 * [I'm just a Girl Who Can't Say No](https://drive.google.com/open?id=1CxY4c_Ba3t040YS77IbV6liHIHcLqzgW) CO-WY NATS
-* the
+
 
 
