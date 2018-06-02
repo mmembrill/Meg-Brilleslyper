@@ -1,20 +1,21 @@
-## Stat 104 Fall 2018 
+## Meg Brilleslyper: Vocalist
 
 <!-- Want a banner image? Find the image you want and store it in the images directory with the name `banner.jpg`. (Or you can modify the file name in the next line, with any image URL you want. -->
 
 ![](images/banner.jpg){img:height="300px" width="100%"}
 <!-- If you don't want a banner, delete the previous line.  -->
 
-## Welcome
+## Hello
 
-- My name is ...
-- Office Hours:
-- Textbook:
+- My name is Meg Brilleslyper
+- I am a senior at Discovery Canyon Campus High School
+- I am a mezzo-soprano.
+- I plan to major in vocal performance in college beginning fall 2019.
 
 
-## Daily schedule: Fall 2018
+## Recent Competitions and Performances
 
-### Friday Sept 7
+### Links to some video performances
 
 * Topic: Welcome to Stats 101
 * Lesson: [What is stats?](https://dtkaplan.shinyapps.io/Lesson_first_day_births/)
