@@ -22,7 +22,7 @@
 
 ### Links to some video performances
 
-* Topic: Welcome to Stats 101
+* Voi Che Sapate CO-WY NATS final performance: [Voi Che Sapate](https://drive.google.com/open?id=1ZzvS-rvYw2467lPsFcj58P6Bk88naWhL)
 * Lesson: [What is stats?](https://dtkaplan.shinyapps.io/Lesson_first_day_births/)
 * Reading: Textbook Chap 1, pp. 14-19
 
