@@ -10,7 +10,7 @@
 - My name is Meg Brilleslyper
 - I am a senior at Discovery Canyon Campus High School in Colorado Springs
 - I plan to major in vocal performance in college beginning fall 2019.
-- Here is my [resume]().
+- Here is my [resume](https://github.com/mmembrill/Meg-Brilleslyper/blob/master/docs/Meg's%20Resume.pdf).
 
 
 ## Recent Competitions and Performances
