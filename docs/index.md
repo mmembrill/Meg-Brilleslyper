@@ -15,6 +15,11 @@
 
 ## Recent Competitions and Performances
 
+- Colorado Wyoming NATS:  1st place classical division
+- Colorado Wyoming NATS: 1st place music theater division
+- MTNA National Finals Orlando Fl
+- Soprano solist for Michael Hadyn's Requiem performed by Soli Deo Gloria
+
 ### Links to some video performances
 
 * Topic: Welcome to Stats 101
