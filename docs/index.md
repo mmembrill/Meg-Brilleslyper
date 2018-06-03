@@ -2,7 +2,7 @@
 
 <!-- Want a banner image? Find the image you want and store it in the images directory with the name `banner.jpg`. (Or you can modify the file name in the next line, with any image URL you want. -->
 
- ![](images/meg1.jpg)
+ ![Meg |512x397,20%](images/meg1.jpg )
 <!-- If you don't want a banner, delete the previous line.  -->
 
 ## Information
