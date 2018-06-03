@@ -1,15 +1,14 @@
-## Meg Brilleslyper: Vocalist (Mezzo Soprano)
+## Meg Brilleslyper: *Mezzo-Soprano*
 
 <!-- Want a banner image? Find the image you want and store it in the images directory with the name `banner.jpg`. (Or you can modify the file name in the next line, with any image URL you want. -->
 
 <!-- ![](images/banner.jpg){img:height="300px" width="100%"} -->
 <!-- If you don't want a banner, delete the previous line.  -->
 
-## Hello
+## Information
 
-- My name is Meg Brilleslyper
 - I am a senior at Discovery Canyon Campus High School in Colorado Springs
-- I plan to major in vocal performance in college beginning fall 2019.
+- I plan to major in vocal performance in college beginning Fall 2019.
 - Here is my [resume](https://mmembrill.github.io/Meg-Brilleslyper/Meg_resume.pdf).
 
 
@@ -17,6 +16,7 @@
 
 - Colorado Wyoming NATS:  *1st place classical division*
 - Colorado Wyoming NATS: *1st place music theater division*
+- CMA Showcase concert
 - MTNA National Finals Orlando Fl
 - Soprano soloist for Michael Hadyn's Requiem performed by Soli Deo Gloria (90-voice community chorus)
 
